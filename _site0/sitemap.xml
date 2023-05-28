@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:4000/what/eth/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2023-02-04</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/aptos-coin-apt-2022/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-10-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/moonbeam-network-glmr/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-10-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/news/us-inflation-september</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-10-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/buy-bitcoin-with-paypal/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-09-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nft/nft-stocks/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-08-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nft/nft-projects/lazy-lions</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-07-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nft/nft-wallet/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-07-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nft/nft-projects/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-07-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nft/nft-art/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-07-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/ape/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-07-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/mushe-token-xmu/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-07-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/cake/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/sol/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/erc20/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-18</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/chiliz-chz/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/chia/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/bitcoin-cash-bch/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/baby-doge/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/news/eth-crash-on-uniswap/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/governance-token/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/gravitoken-grv/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/harmony-one/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/hbar-hedera/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/iota/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/floki/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/amp-coin/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/news/mastercard-nft-purchase/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/audius/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/bittorent-btt/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/eos/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/pi-coin/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/mana/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/news/rba-interest-rate-affect-on-cryptocurrencies/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/tether-usdt/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/vet/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/yuan-chain-coin-ycc/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-06</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/news/bitcoin/launch-of-the-Bitcoin-bond-project-in-El-Salvador-still-on-track</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-02</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/atom/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-06-02</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/ada/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-31</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/cryptocurrency/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/shib/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/xrp/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/trx/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/neo/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/ltc/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/defi/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/bnb/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/bitcoin/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-20</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/dot/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-05-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/nft/nft-coins/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-04-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/what/diem-libra/</loc>
+            <changefreq>daily</changefreq>
+            <priority>1</priority>
+            <lastmod>2022-02-09</lastmod>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/authors/kriptoistanbul/</loc>
+            <changefreq>yearly</changefreq>
+            <priority>0.0</priority>
+        </url>
+    
+    <url>
+        <loc>https://cryptocurrencynewspro.com/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-05-27</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/airdrop/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/nft/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/what/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/nft/nft-coins/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
+</urlset>

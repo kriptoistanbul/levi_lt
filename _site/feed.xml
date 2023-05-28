@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>levi.lt</title>
+    <description>An Informative website with the latest news and information on cryptocurrencies and technologies.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 May 2023 19:59:23 +0300</pubDate>
+    <lastBuildDate>Sun, 28 May 2023 19:59:23 +0300</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>What is Bitcoin BTC?</title>
+        <description>
+</description>
+        <pubDate>Fri, 20 May 2022 18:03:19 +0300</pubDate>
+        <link>http://localhost:4000/take-quiz/</link>
+        <guid isPermaLink="true">http://localhost:4000/take-quiz/</guid>
+        
+        <category>bitcoin</category>
+        
+        <category>btc</category>
+        
+        <category>cryptocurrency</category>
+        
+        <category></category>
+        <media>/assets/img/posts-img/btc/what-is-bitcoin.webp</media>
+      </item>
+    
+      <item>
+        <title>What is Bitcoin BTC?</title>
+        <description>
+</description>
+        <pubDate>Fri, 20 May 2022 18:03:19 +0300</pubDate>
+        <link>http://localhost:4000/submit-quiz/</link>
+        <guid isPermaLink="true">http://localhost:4000/submit-quiz/</guid>
+        
+        <category>bitcoin</category>
+        
+        <category>btc</category>
+        
+        <category>cryptocurrency</category>
+        
+        <category></category>
+        <media>/assets/img/posts-img/btc/what-is-bitcoin.webp</media>
+      </item>
+    
+  </channel>
+</rss>
